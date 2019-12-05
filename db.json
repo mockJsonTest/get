@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "id": "string",
+  "listaNote": [
     {
-      "id": 1,
-      "title": "hello"
+      "codMotivazione": "test codMotivazione",
+      "codSubTipoNota": "test codSubTipoNota",
+      "codTipoAutore": "test codTipoAutore",
+      "codTipoNota": "NOTE_INTERMEDIARIO",
+      "datiAggiuntivi": [
+        {
+          "chiave": "chiave test",
+          "valore": "valore test"
+        }
+      ],
+      "desCognomeAutore": "desCognomeAutore test",
+      "desNomeAutore": "desNomeAutore test",
+      "desNota": "desNota test",
+      "flgStatoNota": true,
+      "id": "id test",
+      "idNota": 0,
+      "idPratica": 0,
+      "matrUtente": "matrUtente test",
+      "numRiferimento": 0,
+      "proNota": 0,
+      "tmsInserimento": "2019-12-05T11:23:00.700Z"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
